@@ -1,6 +1,6 @@
 import streamlit as st
 import pickle
-st.title('Salary Pred')
+st.title('Shivani')
 
 
 with open("model.pkl", "rb") as file:
